@@ -1,0 +1,7 @@
+[package]
+name = "ethpool_parity"
+version = "0.1.0"
+authors = ["Craig OConnor <oconnorct1@gmail.com>"]
+
+[dependencies]
+ws = "0.7.1"
