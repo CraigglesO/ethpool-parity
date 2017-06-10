@@ -5,3 +5,7 @@ authors = ["Craig OConnor <oconnorct1@gmail.com>"]
 
 [dependencies]
 ws = "0.7.1"
+url = "1.4.1"
+clap = "2.24.2"
+env_logger = "0.4.3"
+log = "0.3.8"
